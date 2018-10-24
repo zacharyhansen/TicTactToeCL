@@ -1,0 +1,30 @@
+{
+  "name": "tictacttoecl",
+  "version": "1.0.0",
+  "description": "TicTacToe Game that is played from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyhansen/TicTactToeCL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharyhansen/TicTactToeCL/issues"
+  },
+  "homepage": "https://github.com/zacharyhansen/TicTactToeCL#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.23.0"
+  }
+}
